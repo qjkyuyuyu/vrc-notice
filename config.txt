@@ -1,4 +1,3 @@
 title=欢迎来到摆烂模型房
-message=password：482917
-message=password：739204
+message=password：482917\npassword：739204
 image=poster_001
