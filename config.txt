@@ -1,2 +1,4 @@
-password：482917
-password：739204
+title=欢迎来到摆烂模型房
+message=password：482917
+message=password：739204
+image=poster_001
