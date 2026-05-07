@@ -1,3 +1,2 @@
-title=欢迎来到我的VRChat世界
-message=今晚 21:00 在主舞台集合
-image=poster_001
+password：482917
+password：739204
